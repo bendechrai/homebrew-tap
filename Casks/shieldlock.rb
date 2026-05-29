@@ -1,6 +1,6 @@
 cask "shieldlock" do
-  version "1.0.3"
-  sha256 "24bdba2737c658c5610a07fc984d20fa622a2d0dd031728d25ea1277aac7e15b"
+  version "1.0.4"
+  sha256 "15e814f3165115607f3be37e9cd390355e5b6df8222b20e6b6e41dcae23a1bb0"
 
   url "https://github.com/bendechrai/shieldlock/releases/download/v#{version}/ShieldLock.zip"
   name "ShieldLock"
