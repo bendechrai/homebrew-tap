@@ -1,8 +1,8 @@
 class Planhop < Formula
   desc "Run Claude Code on whichever subscription's quota expires soonest"
   homepage "https://bendechrai.github.io/planhop"
-  url "https://registry.npmjs.org/planhop/-/planhop-0.3.1.tgz"
-  sha256 "9b5e245b0637a2742ff3272769a6a26394950d164a1a414e62a07f31e0a15aab"
+  url "https://registry.npmjs.org/planhop/-/planhop-0.4.1.tgz"
+  sha256 "0d3e7f5448a705adc5d88122cf410b2a153da16a4f53c45b40fb4dfdd9ef0827"
   license "MIT"
 
   depends_on "node"
